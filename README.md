@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Soni Dwi Sugiarto
-- 👀 I’m interested in WordPress Development
-- 🌱 I’m currently learning Website Development
-- 💞️ I’m looking to collaborate on WordPress Enthusiasm
-- 📫 How to reach me: estehcloud@gmail.com
+- 👀 I’m interested in you
+- 🌱 I’m currently learn about you
+- 💞️ I’m looking to collaborate on your project
+- 📫 How to reach me: sonidwisugiarto2001@gmail.com
 
 <!---
 Soni Dwi Sugiarto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
